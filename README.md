@@ -11,7 +11,12 @@ A seguir você pode encontrar dashboards interativos que desenvolvi para pratica
 
 ## 🏅 1. Medalhas Olímpicas do Brasil
 
-![Dashboard de medalhas olímpicas](images/dashboard-olimpiadas.jpg)
+<p align="Left">
+  <img src="assets/Captura de tela 2026-09-05 125727.jpg" alt="Exemplo" width="400">
+</p>
+<p align="Left">
+  <img src="assets/Captura de tela 2026-09-10 141215.png" alt="Exemplo" width="400">
+</p>
 
 Dashboard que consolida o histórico de medalhas do Brasil nos Jogos Olímpicos, permitindo filtrar por gênero (masculino/feminino) e visualizar a distribuição geográfica das edições dos Jogos.
 
@@ -35,7 +40,9 @@ Dashboard que consolida o histórico de medalhas do Brasil nos Jogos Olímpicos,
 
 ## 📉 2. Análise de Churn de Clientes (Telecom)
 
-![Dashboard de churn de clientes](images/dashboard-churn.png)
+<p align="Left">
+  <img src="assets/Captura de tela 2026-09-10 171819.png" alt="Exemplo" width="400">
+</p>
 
 Dashboard analítico sobre cancelamento de clientes (*churn*) em uma empresa de telecomunicações, com foco em identificar padrões de risco por tempo de permanência, tipo de contrato, serviço de internet e forma de pagamento.
 
@@ -61,7 +68,9 @@ Dashboard analítico sobre cancelamento de clientes (*churn*) em uma empresa de 
 
 ## 🏋️ 3. Perfil Físico de Alunos de Academia (dataset próprio)
 
-![Dashboard de perfil físico de alunos](images/dashboard-academia.png)
+<p align="Left">
+  <img src="assets/Captura de tela 2026-09-04 162923.png" alt="Exemplo" width="400">
+</p>
 
 Dashboard criado a partir de uma base de dados própria, com métricas de 100 alunos de academia: peso, IMC, percentual de gordura e VO2 máximo, segmentados por faixa etária, sexo e nível de flexibilidade.
 
